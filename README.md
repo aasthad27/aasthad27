@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aasthad27 currently a fresher . 
+- 👋 Hi, I’m Aastha , currently a fresher . 
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning HTML, Css , java script , bootstrap , C++ and DSA 
 - 💞️ I’m looking to collaborate on web dev projects .
